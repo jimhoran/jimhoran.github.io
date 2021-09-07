@@ -1,3 +1,3 @@
 hi
 
-![](cle-log.png)
+![](cle-gua.png)
